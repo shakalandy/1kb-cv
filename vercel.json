@@ -1,6 +1,13 @@
 {
   "redirects": [
     { "source": "/p", "destination": "https://andreas-lehr.com" },
+    { "source": "/l", "destination": "https://www.linkedin.com/in/andreaslehr/" },
+    { "source": "/a", "destination": "https://allesnurgecloud.com" },
+    { "source": "/w", "destination": "https://we-manage.de" },
+    { "source": "/s", "destination": "https://jobs.schwarz" },
+    { "source": "/c", "destination": "https://www.bloomberg.com/news/articles/2021-02-11/clubhouse-mania-drove-6-billion-to-this-chinese-company" },
+    { "source": "/m", "destination": "https://www.hashicorp.com/events/webinars/monitoring-as-code-webinar-with-checkly" },
+    { "source": "/o", "destination": "https://www.youtube.com/watch?v=qPoU6yfTx8k" },
     { "source": "/t", "destination": "https://twitter.com/shakalandy" }
   ]
 }
