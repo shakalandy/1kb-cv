@@ -1,6 +1,8 @@
 {
   "redirects": [
     { "source": "/p", "destination": "https://andreas-lehr.com" },
+    { "source": "/b", "destination": "https://cv.tdarb.org/" },
+    { "source": "/k", "destination": "https://tdarb.org/blog/under-1kb.html" },
     { "source": "/l", "destination": "https://www.linkedin.com/in/andreaslehr/" },
     { "source": "/a", "destination": "https://allesnurgecloud.com" },
     { "source": "/w", "destination": "https://we-manage.de" },
